@@ -1,0 +1,107 @@
+2017-02-24 11:06:03 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:06:07 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:07:09 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:07:09 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:07:19 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:07:22 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:07:26 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:07:26 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:07:26 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:07:26 TRACE UserDAO:44 - Return user
+2017-02-24 11:07:26 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:07:26 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:18:41 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:18:45 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:18:45 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:18:45 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:18:45 TRACE UserDAO:44 - Return user
+2017-02-24 11:18:45 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:18:45 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:28:13 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:44:56 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:45:08 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:46:18 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:46:18 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:46:19 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:46:24 TRACE LoginServlet:28 - LoginServlet POST
+2017-02-24 11:46:24 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:46:24 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:46:24 TRACE UserDAO:44 - Return user
+2017-02-24 11:46:24 TRACE LoginServlet:36 - not authorized
+2017-02-24 11:46:24 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:46:35 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:46:54 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:46:55 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:47:01 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:47:21 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:47:22 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:47:27 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:47:31 TRACE LoginServlet:28 - LoginServlet POST
+2017-02-24 11:47:31 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:47:31 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:47:31 TRACE UserDAO:44 - Return user
+2017-02-24 11:47:31 TRACE LoginServlet:36 - not authorized
+2017-02-24 11:47:31 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:49:39 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:49:39 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:49:46 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:49:47 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:49:50 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:49:54 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:49:54 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:49:54 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:49:54 TRACE UserDAO:44 - Return user
+2017-02-24 11:49:54 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:49:54 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:49:59 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:49:59 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:49:59 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:49:59 TRACE UserDAO:44 - Return user
+2017-02-24 11:49:59 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:49:59 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:00 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:00 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:00 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:00 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:00 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:00 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:00 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:00 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:00 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:00 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:00 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:00 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:01 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:01 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:01 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:01 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:01 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:01 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:01 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:01 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:01 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:01 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:01 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:01 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:02 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:02 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:02 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:02 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:02 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:02 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:50:02 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:50:02 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:50:02 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:50:02 TRACE UserDAO:44 - Return user
+2017-02-24 11:50:02 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:50:02 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:52:04 TRACE AplicationLoadListener:22 - Webapp stop
+2017-02-24 11:52:04 TRACE AplicationLoadListener:16 - Webapp start
+2017-02-24 11:52:06 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:52:09 TRACE LoginServlet:21 - LoginServlet GET
+2017-02-24 11:52:13 TRACE LoginServlet:27 - LoginServlet POST
+2017-02-24 11:52:13 TRACE UserDAO:24 - Connection to DB
+2017-02-24 11:52:13 ERROR UserDAO:42 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/studentdb?useSSL=false
+2017-02-24 11:52:13 TRACE UserDAO:44 - Return user
+2017-02-24 11:52:13 TRACE LoginServlet:35 - not authorized
+2017-02-24 11:52:13 TRACE LoginServlet:21 - LoginServlet GET
