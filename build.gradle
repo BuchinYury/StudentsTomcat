@@ -1,7 +1,7 @@
 group 'io.buchin'
 version '1.0-SNAPSHOT'
 
-//apply plugin: 'jar'
+apply plugin: 'java'
 apply plugin: 'war'
 
 sourceCompatibility = 1.8
@@ -12,9 +12,28 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
+
     compile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.0.1'
     compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.38'
-    compile group: 'log4j', name: 'log4j', version: '1.2.17'
-//    compile group: 'jstl', name: 'jstl', version: '1.2'
 
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile group: 'jstl', name: 'jstl', version: '1.2'
+    compile group: 'javax.mail', name: 'mail', version: '1.4'
+
+    compile group: 'org.springframework', name: 'spring-context', version: '4.3.3.RELEASE'
+    compile group: 'org.springframework', name: 'spring-web', version: '4.3.4.RELEASE'
+    compile group: 'org.springframework', name: 'spring-webmvc', version: '4.3.4.RELEASE'
+
+    compile group: 'org.springframework.security', name: 'spring-security-web', version: '4.2.0.RELEASE'
+    compile group: 'org.springframework.security', name: 'spring-security-core', version: '4.2.0.RELEASE'
+    compile group: 'org.springframework.security', name: 'spring-security-config', version: '4.2.0.RELEASE'
+
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.2.8.Final'
+
+    compile group: 'org.mybatis', name: 'mybatis', version: '3.2.2'
+
+    compile 'org.springframework.data:spring-data-releasetrain:1.4.6.RELEASE'
+    compile 'org.springframework.data:spring-data-jpa:1.11.1.RELEASE'
+
+    compile 'com.google.guava:guava:21.0'
 }

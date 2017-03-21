@@ -1,17 +1,18 @@
 <%--
   Created by IntelliJ IDEA.
-  User: yuri
-  Date: 24.02.17
-  Time: 16:50
+  User: fedinskiy
+  Date: 23.02.17
+  Time: 11:39
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Error</title>
+    <title>Title</title>
 </head>
 <body>
-    Произошла ошибка при взаимодействии с сервисом.
-    Попробуйте воспользоваться сервисрм позднее.
+<div>
+    <h1>Where was some kind of unexpected error :(</h1>
+</div>
 </body>
 </html>
